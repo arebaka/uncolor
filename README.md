@@ -1,7 +1,8 @@
 # uncolor
 *nya!*
-
 > An easy tool for removing ANSI color from output
+
+![](https://img.shields.io/github/repo-size/arebaka/uncolor)
 
 ## Usage
 `command that outputs colored text | uncolor`
